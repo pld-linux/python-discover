@@ -8,7 +8,7 @@ Summary(pl.UTF-8):	Wykrywanie testów dla modułu unittest (backport z Pythona 2
 Name:		python-discover
 Version:	0.4.0
 Release:	1
-License:	Apache v2.0
+License:	BSD
 Group:		Development/Languages/Python
 #Source0Download: https://pypi.python.org/simple/discover/
 Source0:	https://pypi.python.org/packages/source/d/discover/discover-%{version}.tar.gz
