@@ -10,10 +10,10 @@ Version:	0.4.0
 Release:	3
 License:	BSD
 Group:		Development/Languages/Python
-#Source0Download: https://pypi.python.org/simple/discover/
-Source0:	https://pypi.python.org/packages/source/d/discover/discover-%{version}.tar.gz
+#Source0Download: https://pypi.org/simple/discover/
+Source0:	https://files.pythonhosted.org/packages/source/d/discover/discover-%{version}.tar.gz
 # Source0-md5:	30bb643af4f5ea47fff572b5c346207d
-URL:		https://pypi.python.org/pypi/discover/
+URL:		https://pypi.org/project/discover/
 BuildRequires:	rpm-pythonprov
 BuildRequires:	rpmbuild(macros) >= 1.714
 %if %{with python2}
