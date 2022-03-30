@@ -7,7 +7,7 @@ Summary:	Test discovery for unittest (backport from Python 2.7)
 Summary(pl.UTF-8):	Wykrywanie testów dla modułu unittest (backport z Pythona 2.7)
 Name:		python-discover
 Version:	0.4.0
-Release:	8
+Release:	9
 License:	BSD
 Group:		Development/Languages/Python
 #Source0Download: https://pypi.org/simple/discover/
